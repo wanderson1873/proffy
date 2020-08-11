@@ -1,7 +1,7 @@
 # Proffy
 
 <p>
-  <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-04D361?style=flat-square">
+  <img src="https://img.shields.io/badge/made%20by-Wanderson%20Oliveira-04D361?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wanderson1873/proffy?color=04D361&style=flat-square">
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/wanderson1873/proffy?color=04D361&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
