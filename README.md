@@ -28,7 +28,9 @@
 
 ## Sobre o Proffy
 
-O Proffy é uma plataforma feita para conectar alunos e professores, desenvolvida durante a Next Level Week #2 da [Rocketseat](https://rocketseat.com.br/).
+Proffy é uma aplicação Mobile e Web com o objetivo de conectar alunos e professores. Esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, custo por hora e horários disponíveis. E aos alunos a possibilidade de buscar pelas aulas cadastradas.
+
+O Proffy foi desenvolvida durante a #NLW2 (Next Level Week 2º Edição) da [Rocketseat](https://rocketseat.com.br/).
 
 <br>
 
